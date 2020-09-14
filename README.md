@@ -1,5 +1,10 @@
 # try-study-2020-nive-ut
-try github - test repo (for) study 2020-nive-ut
+
+This is a personal test repo for self study and experiments.
+
+## about
+try github - test repo (for) study
+ * program: 2020-nive-ut
  * initial test run finished - 2020-08-10
 
 ## tech stack
