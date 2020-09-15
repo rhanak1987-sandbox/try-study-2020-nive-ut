@@ -11,7 +11,7 @@ try github - test repo (for) study
  * git: 1 local repo, basic commands
  * github: 1 remote repo, web interface
  * vs-code: for this particular guide
-   * but anyway another decent text editor might do it as well
+   * but anyway, [other decent text editors] might do it as well
 
 ## see below example (on) divergence test
 
