@@ -13,6 +13,10 @@ try github - test repo (for) study
  * vs-code: for this particular guide
    * but anyway, [other decent text editors] might do it as well
 
+## Legal
+* Please check out the [general notes and warnings](https://rhanak1987-sandbox.github.io/hello-world/possible-license-concerns.html) and use it as a guideline, as if the file was placed into this project
+* Please use common sense, act with good intentions AND due diligence
+
 ## see below example (on) divergence test
 
 ### 1.) create example
